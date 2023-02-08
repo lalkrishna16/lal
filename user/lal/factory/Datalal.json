@@ -1,0 +1,9 @@
+{
+	"name": "Datalal",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "63dd5b32-1322-480a-b1c1-f3b6309b3734",
+		"tenantId": "8bd18023-0e11-48b9-8eca-1e8b2f457d24"
+	}
+}
